@@ -1,7 +1,4 @@
-from mpl_toolkits.mplot3d import Axes3D
 from sklearn.preprocessing import StandardScaler
-import matplotlib as mpl
-import matplotlib.pyplot as plt
 from sklearn import metrics
 
 #Importing Libraries to create GUI
